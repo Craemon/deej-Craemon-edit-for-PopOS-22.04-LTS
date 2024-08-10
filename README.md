@@ -1,5 +1,9 @@
 # deej - Craemon edit for Pop!_OS 22.04 LTS
 
+A few edits made here and there to fit my setup, but the core of the project remains pretty much the same!
+
+# Original Description:
+
 deej is an **open-source hardware volume mixer** for Windows and Linux PCs. It lets you use real-life sliders (like a DJ!) to **seamlessly control the volumes of different apps** (such as your music player, the game you're playing and your voice chat session) without having to stop what you're doing.
 
 **Join the [deej Discord server](https://discord.gg/nf88NJu) if you need help or have any questions!**
