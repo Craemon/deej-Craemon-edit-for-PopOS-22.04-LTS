@@ -1,4 +1,4 @@
-# deej - Craemon edit for Pop!_OS 22.04 LTS
+# deej - Craemon edit
 
 A few edits made here and there to fit my setup, but the core of the project remains pretty much the same!
 
